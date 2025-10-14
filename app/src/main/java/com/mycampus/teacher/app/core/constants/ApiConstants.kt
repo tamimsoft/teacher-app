@@ -1,0 +1,1 @@
+package com.mycampus.teacher.app.core.constants
